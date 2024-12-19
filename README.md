@@ -11,6 +11,7 @@
 <img src="https://github.com/Nullocrix/Nullocrix/blob/main/assets/icons/programming/python.svg" alt="Python language" height="50" width="50" />
  <img src="https://github.com/Nullocrix/Nullocrix/blob/main/assets/icons/programming/c.svg" alt="C" height="50" width="50" />
 <img src="https://github.com/Nullocrix/Nullocrix/blob/main/assets/icons/programming/c++.svg" alt="C++" height="50" width="50" />
+ <img src="https://github.com/Nullocrix/Nullocrix/blob/main/assets/icons/programming/java.svg" alt="C++" height="50" width="50" />
 <img src="https://github.com/Nullocrix/Nullocrix/blob/main/assets/icons/programming/scratch.svg" alt="C++" height="50" width="50" />
 </p>
 <!---
