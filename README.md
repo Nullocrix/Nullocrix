@@ -1,10 +1,8 @@
 ```Python
-def nullocrix(**config) -> str:
-    name = config.get("name")
-    message = config.get("message")
+def nullocrix(name: str, message: str) -> str:
     return f"{message} {name}"
 
-output = nullocrix(message: str = "Hello, my name is ", name: str = "Nullocrix")
+output = nullocrix(message="Hello, my name is", name="Nullocrix")
 
 print(output)
 ```
