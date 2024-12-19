@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Nullocrix
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+```Python
+def nullocrix(**config) -> str:
+    name = config.get("name")
+    message = config.get("message")
+    return f"{message} {name}"
+
+output = nullocrix(message: str = "Hello, my name is ", name: str = "Nullocrix")
+
+print(output)
+```
 
 **Programming Languages I Use**
 <p align='left'>
