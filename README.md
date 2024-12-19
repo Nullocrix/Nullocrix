@@ -8,8 +8,8 @@
 
 **Programming Languages**
 <p align='left'>
-<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" alt="Python language" height="55" width="50" />
- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" height="65" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python language" height="50" width="50" />
+ <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="HTML" height="50" width="50" />
 </p>
 <!---
 Nullocrix/Nullocrix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
