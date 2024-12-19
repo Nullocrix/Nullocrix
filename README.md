@@ -10,8 +10,8 @@
 <p align='left'>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python language" height="50" width="50" />
  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" height="50" width="50" />
-
- <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" width="50" />
+<img src="https://github.com/Nullocrix/Nullocrix/edit/main/blob/assets/icons/scratch.svg" alt="C++" height="50" width="50" />
 </p>
 <!---
 Nullocrix/Nullocrix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
