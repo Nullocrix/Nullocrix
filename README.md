@@ -6,7 +6,7 @@ output = nullocrix(message="Hello, my name is", name="Nullocrix")
 
 print(output)
 ```
-![Visitor Count](https://smilex404.pythonanywhere.com)
+![](https://smilex404.pythonanywhere.com)
 
 **Programming Languages I Use**
 <p align='left'>
