@@ -6,6 +6,7 @@ output = nullocrix(message="Hello, my name is", name="Nullocrix")
 
 print(output)
 ```
+**My Profile Visits**
 !['Visit Count'](https://smilex404.pythonanywhere.com?v_*)
 
 **Programming Languages I Use**
