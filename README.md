@@ -6,10 +6,11 @@ output = nullocrix(message="Hello, my name is", name="Nullocrix")
 
 print(output)
 ```
-!['Visit Count'](https://smilex404.pythonanywhere.com/?v_1-1-2024)
+!['Visit Count'](https://smilex404.pythonanywhere.com/?v_0-0-0)
 
 **Programming Languages I Use**
 <p align='left'>
+<img src="https://smilex404.pythonanywhere.com/?v_20-12-2024" alt="Python" height="50" width="50" />
 <img src="https://github.com/Nullocrix/Nullocrix/blob/main/assets/icons/programming/python.svg" alt="Python" height="50" width="50" />
 <img src="https://github.com/Nullocrix/Nullocrix/blob/main/assets/icons/programming/javascript.svg" alt="JavaScript" height="50" width="50" />
  <img src="https://github.com/Nullocrix/Nullocrix/blob/main/assets/icons/programming/c.svg" alt="C" height="50" width="50" />
