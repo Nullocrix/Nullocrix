@@ -7,7 +7,7 @@ output = nullocrix(message="Hello, my name is", name="Nullocrix")
 print(output)
 ```
 **My Profile Visits**
-![Visit Count](https://nullocrix.pythonanywhere.com/api/github/Nullocrix?v_1-2-2024)
+![Visit Count](https://nullocrix.pythonanywhere.com/api/github/Nullocrix)
 
 **Programming Languages I Use**
 <p align='left'>
